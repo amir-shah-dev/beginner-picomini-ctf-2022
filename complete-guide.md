@@ -200,6 +200,8 @@ First open up Python in the webshell by entering the command `python3`. Then you
   ```console
   echo -n 'string' | md5sum
   ```
+ 
+</details>
   
 # PW Crack 1
 
