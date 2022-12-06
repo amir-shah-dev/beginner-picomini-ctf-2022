@@ -13,6 +13,7 @@ First you'll need to get setup on picoCTF so that you can get started.
 2. Select "Log In" in the top right corner.
 3. Select "Sign Up" and create an account, if you already have an account you can skip this step. <br />```Note: Please create a brand new password for this account and do not use one of your current passwords```
 4. Once setup, select "Practice" at the top of the page. On the following page select "Beginner picoMini 2022" which can be found in the "Filters" section of the page.
-5. Finally select "Webshell" and this will open a console window where you can login with the credentials you just created. <br />```Note: Our guides work within this webshell, so please do NOT download the code files to your actual computer```
-6. You can also popout this console window into a new tab for ease of use by selecting the "Popout" button. <br />![Screenshot 2022-12-05 154405](https://user-images.githubusercontent.com/72796129/205682931-f870034f-e621-4ba3-987a-00453eec8113.png)
+5. Finally select "Webshell" and this will open a console window where you can login with the credentials you just created.
+6. > **Note** Note: Our guides work within this webshell, so please do NOT download the code files to your actual computer
+7. You can also popout this console window into a new tab for ease of use by selecting the "Popout" button. <br />![Screenshot 2022-12-05 154405](https://user-images.githubusercontent.com/72796129/205682931-f870034f-e621-4ba3-987a-00453eec8113.png)
 8. You are now ready to start :)
